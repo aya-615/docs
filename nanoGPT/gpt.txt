@@ -18,3 +18,9 @@ python train.py config/train_shakespeare_char.py \
 
 # 模型的推理
 python sample.py --out_dir=out-shakespeare-char --device=cpu
+
+
+#
+https://zhuanlan.zhihu.com/p/635483902   训练数据
+
+
