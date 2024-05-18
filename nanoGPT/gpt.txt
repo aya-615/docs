@@ -22,6 +22,7 @@ python sample.py --out_dir=out-shakespeare-char --device=cpu
 
 #
 https://zhuanlan.zhihu.com/p/635483902   训练数据
+https://riguz.com/NanoGPT_Tutorial  
 
 
 # input data
