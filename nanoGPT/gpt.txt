@@ -1,3 +1,5 @@
+# 准备数据
+python data/shakespeare_char/prepare.py
 # 训练
 cd nanoGPT
 python train.py config/train_shakespeare_char.py \
